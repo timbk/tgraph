@@ -1,0 +1,70 @@
+          /          /Maxwellgleichungen---Wellengleichungen
+          |          |em Spektrum
+          |          |ebene wellen
+          |          |                    /Brewsterwinkel
+          |          |Polarisatoren-------|Dichroismus (Absorption abhängig von Polarisation)
+          |          |                    \Doppelbrechung
+          |          |Energie (dichte und transport)-----------Poyntingvektor/theorem
+          |          |Brechungsindex-------dispersion
+          |          |In Leitern-----------Plasmafrequenz
+          |          |                    /Reflektion/Transmission
+          |          |                    |brechungsgesetz------komplex
+          |          |Grenzflächen--------|Totalreflektion
+          |Optik:----|                    |Fresnelformeln?
+          |          |                    \Brewsterwinkel
+          |          |                              /                    /Spannungsdoppelbrechung
+          |          |                              |doppelbrechung------|lambda/2 Plättchen
+          |          |Anisotrope Materialien--------|                    \lambda/4 Plättchen
+          |          |                              |Dielektrizitätstensor
+          |          |                              \ordentlicher/außerordentlicher Strahl?
+          |          |Optische Aktivität
+          |          |LCD?        
+          |          |Faraday Effekt
+          |          |Pockels Effekt
+          |          |Kerr-Effekt
+          |          \Nichtlineare Effekte
+          |                    /Interferenz
+          |                    |Michelson-Interferometer
+          |                    |Kohärenz
+          |                    |          /Doppelspaltversuch
+          |                    |          |Einzelspalt
+          |                    |          |Gitter
+          |Wellenoptik---------|Beugung---|Lochblende
+          |                    |          |Fresnelbeugung-------Fresnelzonen
+          |                    |          |Frauenhofer Näherung 
+list------|                    |          \Babinetsches Prinzip
+          |                    |Fresnelscher Spiegelversuch
+          |                    |Dünne schichten Interferenz----Fabry-Perot-Interferometer
+          |                    |Huygen(-Fresnel)Prinzip
+          |                    \Streuung
+          |                    /Fermatsches Prinzip
+          |                    |Axiome?
+          |                    |Spiegel/Linsen______/Brennweite
+          |                    |                    \Konkav/Konvex?
+          |                    |                    /Aberration
+          |                    |                    |Koma
+          |                    |Linsenfehler--------|Astigmatismus
+          |                    |                    |Bildfeldwölbung
+          |                    |                    \Verzeichnung
+          |Geometrische Optik--|Matrixoptik_________/Linse
+          |                    |                    \Spiegel
+          |                    |                    /Auge
+          |                    |                    |Lupe
+          |                    |Optische Geräte-----|Mikroskop
+          |                    |                    |Teleskop/Fernrohr
+          |                    |                    |Auflösungsvermögen
+          |                    |                    \Schärfentiefe?
+          |                    |Naturphänomene______/Fata Morgana
+          |                    |                    \Regenbogen
+          |                    \Holographie
+          |                    /                              /Rayleigh-Jeans-Gesetz
+          |                    |Schwarzkörperstrahlung--------|Wiensches Verschiebungsgesetz
+          |                    |                              |Stefan-Boltzmann-Gesetz
+          |                    |                              \Plank Formel
+          |                    |Photoeffekte
+          |Quantenmechanik-----|Comptoneffekt
+          |                    |De-Broglie-Teilchenwellen
+          |                    |Unschärferelationen
+          |                    |Schrödingergleichung
+          |                    |Kastenprobleme-------Tunneleffekt
+          \                    \Harmonischer Oszillator QM

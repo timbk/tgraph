@@ -1,0 +1,96 @@
+Optik:
+    Maxwellgleichungen
+        Wellengleichungen
+    em Spektrum
+    ebene wellen
+    Polarisatoren
+        Brewsterwinkel
+        Dichroismus (Absorption abhängig von Polarisation)
+        Doppelbrechung
+    Energie (dichte und transport)
+        Poyntingvektor/theorem
+    Brechungsindex
+        dispersion
+    In Leitern
+        Plasmafrequenz
+    Grenzflächen
+        Reflektion/Transmission
+        brechungsgesetz
+            komplex
+        Totalreflektion
+        Fresnelformeln?
+        Brewsterwinkel
+    Anisotrope Materialien
+        doppelbrechung
+            Spannungsdoppelbrechung
+            lambda/2 Plättchen
+            lambda/4 Plättchen
+        Dielektrizitätstensor
+        ordentlicher/außerordentlicher Strahl?
+    Optische Aktivität
+    LCD?        
+    Faraday Effekt
+    Pockels Effekt
+    Kerr-Effekt
+    Nichtlineare Effekte
+
+Wellenoptik
+    Interferenz
+    Michelson-Interferometer
+    Kohärenz
+    Beugung
+        Doppelspaltversuch
+        Einzelspalt
+        Gitter
+        Lochblende
+        Fresnelbeugung
+            Fresnelzonen
+        Frauenhofer Näherung 
+        Babinetsches Prinzip
+    Fresnelscher Spiegelversuch
+    Dünne schichten Interferenz
+        Fabry-Perot-Interferometer
+    Huygen(-Fresnel)Prinzip
+    Streuung
+
+Geometrische Optik
+    Fermatsches Prinzip
+    Axiome?
+    Spiegel/Linsen
+        Brennweite
+        Konkav/Konvex?
+    Linsenfehler
+        Aberration
+        Koma
+        Astigmatismus
+        Bildfeldwölbung
+        Verzeichnung
+    Matrixoptik
+        Linse
+        Spiegel
+    Optische Geräte
+        Auge
+        Lupe
+        Mikroskop
+        Teleskop/Fernrohr
+        Auflösungsvermögen
+        Schärfentiefe?
+    Naturphänomene
+        Fata Morgana
+        Regenbogen
+    Holographie
+
+Quantenmechanik
+    Schwarzkörperstrahlung
+        Rayleigh-Jeans-Gesetz
+        Wiensches Verschiebungsgesetz
+        Stefan-Boltzmann-Gesetz
+        Plank Formel
+    Photoeffekte
+    Comptoneffekt
+    De-Broglie-Teilchenwellen
+    Unschärferelationen
+    Schrödingergleichung
+    Kastenprobleme
+        Tunneleffekt
+    Harmonischer Oszillator QM
