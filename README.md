@@ -14,121 +14,68 @@ Allowed values for X are positive integers.
 
 Example:
 === INPUT:
+```
 TODO.txt
-
 .git
-
     COMMIT_EDITMSG
-
     objects
-
     HEAD
-
     branches
-
     packed-refs
-
     logs
-
         HEAD
-
         refs
-
     description
-
     info
-
         exclude
-
     config
-
     FETCH_HEAD
-
     hooks
-
     refs
-
         heads
-
             master
-
         tags
-
         remotes
-
     index
-
     ORIG_HEAD
-
 README.md
-
 ttree.py
-
 .gitignore
-
 tgraph.py
-
 examples
-
     list_graph.txt
-
     list.txt
-
     files.txt
-
     files_graph.txt
+```
 
-
-
-=== OUTPUT
-
-
+=== OUTPUT:
+```
           /TODO.txt
-
           |          /COMMIT_EDITMSG
-
           |          |objects
-
           |          |HEAD
-
           |          |branches
-
           |          |packed-refs
-
           |          |logs______/HEAD
-
           |          |          \refs
-
           |          |description
-
           |.git------|info-------exclude
-
           |          |config
-
           |          |FETCH_HEAD
-
 files-----|          |hooks
-
           |          |          /heads------master
-
           |          |refs------|tags
-
           |          |          \remotes
-
           |          |index
-
           |          \ORIG_HEAD
-
           |README.md
-
           |ttree.py
-
           |.gitignore
-
           |tgraph.py
-
           |          /list_graph.txt
-
           |examples--|list.txt
-
+          |          |files.txt
           \          \files_graph.txt
+```
+
