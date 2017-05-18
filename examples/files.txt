@@ -1,0 +1,32 @@
+TODO.txt
+.git
+    COMMIT_EDITMSG
+    objects
+    HEAD
+    branches
+    packed-refs
+    logs
+        HEAD
+        refs
+    description
+    info
+        exclude
+    config
+    FETCH_HEAD
+    hooks
+    refs
+        heads
+            master
+        tags
+        remotes
+    index
+    ORIG_HEAD
+README.md
+ttree.py
+.gitignore
+tgraph.py
+examples
+    list_graph.txt
+    list.txt
+    files.txt
+    files_graph.txt
