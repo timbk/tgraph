@@ -12,8 +12,10 @@ tree.py [-I X] file1.txt [file2.txt file3.txt ..]
 The -I option sets the steps X for the depth of the subbranches.
 Allowed values for X are positive integers.
 
-Example:
-=== INPUT:
+##Example:
+
+### INPUT:
+
 ```
 TODO.txt
 .git
@@ -49,7 +51,7 @@ examples
     files_graph.txt
 ```
 
-=== OUTPUT:
+### OUTPUT:
 ```
           /TODO.txt
           |          /COMMIT_EDITMSG

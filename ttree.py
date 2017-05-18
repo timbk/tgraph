@@ -1,6 +1,6 @@
 ## Tree class for visualisation of hirachical lists
 
-# get the charactar for the pos(ition) of a node with width
+# returns the ascii-chars that represent the tree structure
 def bracket_sign(width,pos,key='',espace=0):
     if key==None:
         return ''
@@ -33,18 +33,17 @@ class tree:
     def sprint(self):
         self.root_node.sprint(0)
         return 
-    # get all keys at depth
-    def get_keys_depth(self,depth):
-        return self.root_node.get_keys_depth(depth)
     # pretty print of the tree 
     def pprint(self,nindent=4):
         assert nindent>0
         for line in self.root_node.pprint(nindent):
             print(line)
+    # get all keys at depth
+    def get_keys_depth(self,depth):
+        return self.root_node.get_keys_depth(depth)
     # get the width of the whole tree
     def get_width(self):
         return self.root_node.get_width()
-
 
 # represents a node in the tree
 class tree_node:
@@ -116,9 +115,6 @@ class tree_node:
                 else:
                     ret[i]=spacer+bracket_sign(len(ret),i,self.key,nindent-len(ckey)%nindent-1)+ret[i]
             return ret
-
-
-
 
 # generate a tree for testing purposes
 def sample_tree():
